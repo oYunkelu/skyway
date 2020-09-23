@@ -168,22 +168,29 @@ $(() => {
            
            if(max==numbers[0]){
              console.log("anger");
-             $("#sourceImage").html('○');
+             $("#local-video-canvas").html('<img src="img/smile.png">');
            /*$("#sourceImage").html('<img src= "images/">');*/
            }else if(max==numbers[1]){
              console.log("contmpt");
+             $("#local-video-canvas").html('<img src="img/smile.png">');
            }else if(max==numbers[2]){
              console.log("disgust");
+             $("#local-video-canvas").html('<img src="img/smile.png">');
            }else if(max==numbers[3]){
              console.log("fear");
+             $("#local-video-canvas").html('<img src="img/smile.png">');
            }else if(max==numbers[4]){
              console.log("happiness");
+             $("#local-video-canvas").html('<img src="img/smile.png">');
            }else if(max==numbers[5]){
              console.log("neutral");
+             $("#local-video-canvas").html('<img src="img/smile.png">');
            }else if(max==numbers[6]){
              console.log("sadness");
+             $("#local-video-canvas").html('<img src="img/smile.png">');
            }else if(max==numbers[7]){
              console.log("surprise");
+             $("#local-video-canvas").html('<img src="img/smile.png">');
            }
         
           

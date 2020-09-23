@@ -2,6 +2,9 @@
 	width: 640px;
 	height: 480px;
 }
+.col-md-12{
+  position: relative; 
+}
 #local-video{
 	width: 320px;
 	height: 240px;
@@ -9,4 +12,9 @@
 #local-video-canvas{
 	width: 320px;
 	height: 240px;
+    position: absolute;
+}
+.stamp{
+  color:red;
+  size:50px;
 }
