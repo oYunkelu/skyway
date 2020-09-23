@@ -1,2 +1,0 @@
-# skyway-x-cognitiveservice
-SkyWayとCognitiveServiceを組み合わせたビデオチャット
