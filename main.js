@@ -184,7 +184,7 @@ $(() => {
              $("#local-video-canvas").html('<img src="img/smile.png">');
            }else if(max==numbers[5]){
              console.log("neutral");
-             $(".stamp").html('<img src="img/smile.png">');
+             $(".stamp").append('<span>hoge4</span>');
            }else if(max==numbers[6]){
              console.log("sadness");
              $("#local-video-canvas").html('<img src="img/smile.png">');
